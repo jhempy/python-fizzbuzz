@@ -1,6 +1,6 @@
 # prints fizz on multiples of 3
 # prints buzz on multiples of 5
-# prints fizz buzz on multiples of 3 and 5
+# prints fizzbuzz on multiples of 3 and 5
 
 def is_multiple(i,n):
 	if i % n == 0:
